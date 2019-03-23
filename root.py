@@ -1,3 +1,3 @@
 import sys
 import subprocess
-subprocess.call([r'./run.bat'])
+subprocess.call([r'run.bat'])
