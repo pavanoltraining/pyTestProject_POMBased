@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4931f9fd-b652-4961-bc02-403a89d08016" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/root.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/testCases/LoginTest.py" />
+        <option value="$PROJECT_DIR$/testCases/BaseClass.py" />
+        <option value="$PROJECT_DIR$/testCases/TestBase.py" />
+        <option value="$PROJECT_DIR$/testCases/test.log" />
+        <option value="$PROJECT_DIR$/testCases/test_Base.py" />
+        <option value="$PROJECT_DIR$/testCases/commonInfo.py" />
+        <option value="$PROJECT_DIR$/testCases/test_LoginTest_002.py" />
+        <option value="$PROJECT_DIR$/testCases/test_LoginTest_001_Par.py" />
+        <option value="$PROJECT_DIR$/testCases/test_LoginTest_001_par.py" />
+        <option value="$PROJECT_DIR$/testCases/test_LoginTest_001.py" />
+        <option value="$PROJECT_DIR$/testCases/helper.py" />
+        <option value="$PROJECT_DIR$/testCases/test_LoginTest.py" />
+        <option value="$PROJECT_DIR$/testCases/test_helper.py" />
+        <option value="$PROJECT_DIR$/Configuration/config.ini" />
+        <option value="$PROJECT_DIR$/utilities/logGen.py" />
+        <option value="$PROJECT_DIR$/TestSuites/TestRunner.py" />
+        <option value="$PROJECT_DIR$/TestSuites/All_TestSuites.py" />
+        <option value="$PROJECT_DIR$/logs/automation.log" />
+        <option value="$PROJECT_DIR$/utilities/readProperties.py" />
+        <option value="$PROJECT_DIR$/testCases/conftest.py" />
+        <option value="$PROJECT_DIR$/TestSuites/run.bat" />
+        <option value="$PROJECT_DIR$/utilities/XLUtils.py" />
+        <option value="$PROJECT_DIR$/utilities/customLogger.py" />
+        <option value="$PROJECT_DIR$/pageObjects/LoginPage.py" />
+        <option value="$PROJECT_DIR$/utilities/teststatus.py" />
+        <option value="$PROJECT_DIR$/testCases/test_Test2.py" />
+        <option value="$PROJECT_DIR$/testCases/test_Suites.py" />
+        <option value="$PROJECT_DIR$/testCases/test_Test3.py" />
+        <option value="$PROJECT_DIR$/root.py" />
+        <option value="$PROJECT_DIR$/TestSuites/test_Suites.py" />
+        <option value="$PROJECT_DIR$/run.bat" />
+        <option value="$PROJECT_DIR$/testCases/test_Test1.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1358" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pyTestProject_POMBased" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyTestProject_POMBased" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyTestProject_POMBased" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyTestProject_POMBased" type="462c0819:PsiDirectoryNode" />
+              <item name="logs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyTestProject_POMBased" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyTestProject_POMBased" type="462c0819:PsiDirectoryNode" />
+              <item name="testCases" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PythonUnitTestProject" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\pyTestProject_POMBased\utilities" />
+      <recent name="C:\Users\admin\pyTestProject_POMBased\testData" />
+      <recent name="C:\Users\admin\pyTestProject_POMBased\testCases" />
+      <recent name="C:\Users\admin\pyTestProject_POMBased\TestSuites" />
+      <recent name="C:\Users\admin\pyTestProject_POMBased\Configuration" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.root">
+    <configuration name="All_TestSuites" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyTestProject_POMBased" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestSuites" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\admin\pyTestProject_POMBased\TestSuites\test_Suites.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestRunner" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyTestProject_POMBased" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestSuites" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestSuites/TestRunner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="root" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyTestProject_POMBased" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/root.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_Test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyTestProject_POMBased" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testCases/test_Test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_Test3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyTestProject_POMBased" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\admin\pyTestProject_POMBased\testCases\test_Test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.root" />
+        <item itemvalue="Python.test_Test3" />
+        <item itemvalue="Python.All_TestSuites" />
+        <item itemvalue="Python.TestRunner" />
+        <item itemvalue="Python.test_Test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4931f9fd-b652-4961-bc02-403a89d08016" name="Default Changelist" comment="" />
+      <created>1552288089048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552288089048</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_LoginTest_LoginTest_test_login - 2019.03.18 at 13h 16m 49s.xml">
+      <configuration name="Unittests for test_LoginTest.LoginTest.test_login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_LoginTest_py - 2019.03.18 at 13h 18m 04s.xml">
+      <configuration name="Unittests in test_LoginTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_LoginTest_LoginTest - 2019.03.18 at 13h 23m 01s.xml">
+      <configuration name="Unittests for test_LoginTest.LoginTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_LoginTest_py - 2019.03.18 at 13h 56m 11s.xml">
+      <configuration name="Unittests in test_LoginTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_LoginTest_py - 2019.03.18 at 15h 17m 17s.xml">
+      <configuration name="Unittests in test_LoginTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_LoginTest_py - 2019.03.18 at 15h 27m 35s.xml">
+      <configuration name="Unittests in test_LoginTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_LoginTest_py - 2019.03.18 at 15h 27m 43s.xml">
+      <configuration name="Unittests in test_LoginTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_LoginTest_LoginTest - 2019.03.18 at 15h 40m 13s.xml">
+      <configuration name="Unittests for test_LoginTest.LoginTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_LoginTest_LoginTest - 2019.03.18 at 15h 55m 38s.xml">
+      <configuration name="Unittests for test_LoginTest.LoginTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_LoginTest_LoginTest - 2019.03.18 at 16h 07m 37s.xml">
+      <configuration name="Unittests for test_LoginTest.LoginTest" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24907456" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4997356" weight="0.32998884" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27759197" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39910814" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32887402" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5002644" side_tool="true" weight="0.32998884" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32998884" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/testCases/LoggerDemo2.py" />
+    <entry file="file://$PROJECT_DIR$/testCases/test.log" />
+    <entry file="file://$PROJECT_DIR$/Configuration/config.properties" />
+    <entry file="file://$PROJECT_DIR$/testCases/test_LoginTest_002.py" />
+    <entry file="file://$PROJECT_DIR$/logs/test.log" />
+    <entry file="file://$PROJECT_DIR$/testCases/test_LoginTest_001_backup.py" />
+    <entry file="file://$PROJECT_DIR$/testCases/conftest-backup.py" />
+    <entry file="file://$PROJECT_DIR$/testCases/test_LoginTest.py" />
+    <entry file="file://$PROJECT_DIR$/testCases/test_helper.py" />
+    <entry file="file://$PROJECT_DIR$/screenshots/test_login_scr.png" />
+    <entry file="file://$PROJECT_DIR$/reports/report.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Configuration/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/readProperties.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/Python3.6.4/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="1058" selection-start-line="1058" selection-end-line="1058" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageObjects/LoginPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCases/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-151">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/XLUtils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCases/test_Test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-700">
+          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/teststatus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCases/test_Test3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestSuites/run.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" lean-forward="true" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestSuites/TestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/customLogger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestSuites/test_Suites.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCases/test_Suites.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/automation.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="-3514">
+          <caret line="853" column="63" selection-start-line="853" selection-start-column="63" selection-end-line="853" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCases/test_Test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
