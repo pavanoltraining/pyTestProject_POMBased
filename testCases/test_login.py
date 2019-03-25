@@ -32,7 +32,7 @@ class Test_001_Login():
         self.driver.close()
         self.logger.info("******* Ending Home Page Title Test **********")
 
-
+    @pytest.mark.sanity
     @pytest.mark.regression
     def test_login(self):
         self.logger.info("******* Starting Login Test **********")

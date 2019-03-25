@@ -36,3 +36,32 @@
 03/25/2019 03:01:25 PM: INFO: ************* Test_001_Login **********
 03/25/2019 03:01:25 PM: INFO: ******* Starting Home Page Title Test **********
 03/25/2019 03:01:29 PM: INFO: ******* Starting Login Test **********
+03/25/2019 03:05:19 PM: INFO: ************* Test_001_Login **********
+03/25/2019 03:05:19 PM: INFO: ******* Starting Home Page Title Test **********
+03/25/2019 03:05:21 PM: INFO: HomePageTitle Test Passed
+03/25/2019 03:05:21 PM: INFO: ******* Ending Home Page Title Test **********
+03/25/2019 03:06:41 PM: INFO: ************* Test_001_Login **********
+03/25/2019 03:06:41 PM: INFO: ******* Starting Home Page Title Test **********
+03/25/2019 03:06:44 PM: INFO: HomePageTitle Test Passed
+03/25/2019 03:06:44 PM: INFO: ******* Ending Home Page Title Test **********
+03/25/2019 03:06:46 PM: INFO: ******* Starting Login Test **********
+03/25/2019 03:06:53 PM: INFO: Login Test Passed
+03/25/2019 03:06:55 PM: INFO: ******* Ending Login Test **********
+03/25/2019 03:09:11 PM: INFO: ************* Test_001_Login **********
+03/25/2019 03:09:11 PM: INFO: ******* Starting Home Page Title Test **********
+03/25/2019 03:09:13 PM: INFO: HomePageTitle Test Passed
+03/25/2019 03:09:14 PM: INFO: ******* Ending Home Page Title Test **********
+03/25/2019 03:09:16 PM: INFO: ******* Starting Login Test **********
+03/25/2019 03:09:23 PM: INFO: Login Test Passed
+03/25/2019 03:09:25 PM: INFO: ******* Ending Login Test **********
+03/25/2019 03:10:06 PM: INFO: ******* Starting Login Test **********
+03/25/2019 03:10:14 PM: INFO: Login Test Passed
+03/25/2019 03:10:16 PM: INFO: ******* Ending Login Test **********
+03/25/2019 03:10:18 PM: INFO: ******* Starting Test_002_DDT_Login Test **********
+03/25/2019 03:10:18 PM: INFO: ******* Starting Login DDT Test **********
+03/25/2019 03:10:21 PM: INFO: ******* Reading data from excel **********
+03/25/2019 03:10:31 PM: INFO: Login Test Passed
+03/25/2019 03:10:39 PM: INFO: Login Test Passed
+03/25/2019 03:10:45 PM: INFO: Login Test Passed
+03/25/2019 03:10:50 PM: INFO: Login Test Passed
+03/25/2019 03:10:50 PM: INFO: ******* Ending Login DDT Test **********

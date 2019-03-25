@@ -398,7 +398,7 @@ function filter_table(elem) {
 }
 </script>
     <h1>report.html</h1>
-    <p>Report generated on 25-Mar-2019 at 15:03:15 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v1.20.0</p>
+    <p>Report generated on 25-Mar-2019 at 15:10:50 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v1.20.0</p>
     <h2>Environment</h2>
     <table id="environment">
       <tr>
@@ -417,8 +417,8 @@ function filter_table(elem) {
         <td>Python</td>
         <td>3.6.4</td></tr></table>
     <h2>Summary</h2>
-    <p>0 tests ran in 0.97 seconds. </p>
-    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="passed">0 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="error">1 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
+    <p>2 tests ran in 47.75 seconds. </p>
+    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="passed">2 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
     <h2>Results</h2>
     <table id="results-table">
       <thead id="results-table-head">
@@ -429,12 +429,30 @@ function filter_table(elem) {
           <th>Links</th></tr>
         <tr hidden="true" id="not-found-message">
           <th colspan="4">No results found. Try to check the filters</th></tr></thead>
-      <tbody class="error results-table-row">
+      <tbody class="passed results-table-row">
         <tr>
-          <td class="col-result">Error</td>
-          <td class="col-name">testCases/test_suites.py</td>
-          <td class="col-duration">0.00</td>
+          <td class="col-result">Passed</td>
+          <td class="col-name">testCases/test_login.py::Test_001_Login::test_login</td>
+          <td class="col-duration">10.36</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="log">testCases\test_Suites.py:6: in &lt;module&gt;<br/>    tc1=unittest.TestLoader().loadTestsFromTestCase(Test_001_Login)<br/>c:\program files (x86)\python3.6.4\lib\unittest\loader.py:92: in loadTestsFromTestCase<br/>    loaded_suite = self.suiteClass(map(testCaseClass, testCaseNames))<br/>c:\program files (x86)\python3.6.4\lib\unittest\suite.py:24: in __init__<br/>    self.addTests(tests)<br/>c:\program files (x86)\python3.6.4\lib\unittest\suite.py:57: in addTests<br/>    for test in tests:<br/><span class="error">E   TypeError: object() takes no parameters</span><br/></div></td></tr></tbody></table></body></html>
+            <div class="log">------------------------------ Captured log call -------------------------------<br/>test_login.py               38 INFO     ******* Starting Login Test **********
+test_login.py               46 INFO     Login Test Passed
+test_login.py               52 INFO     ******* Ending Login Test **********</div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">testCases/test_login_ddt.py::Test_002_DDT_Login::test_login_ddt</td>
+          <td class="col-duration">32.18</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log">------------------------------ Captured log call -------------------------------<br/>test_login_ddt.py           24 INFO     ******* Starting Test_002_DDT_Login Test **********
+test_login_ddt.py           25 INFO     ******* Starting Login DDT Test **********
+test_login_ddt.py           30 INFO     ******* Reading data from excel **********
+test_login_ddt.py           43 INFO     Login Test Passed
+test_login_ddt.py           53 INFO     Login Test Passed
+test_login_ddt.py           53 INFO     Login Test Passed
+test_login_ddt.py           53 INFO     Login Test Passed
+test_login_ddt.py           60 INFO     ******* Ending Login DDT Test **********</div></td></tr></tbody></table></body></html>
