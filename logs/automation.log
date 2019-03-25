@@ -1,0 +1,38 @@
+03/25/2019 02:54:17 PM: INFO: ******* Starting Test_002_DDT_Login Test **********
+03/25/2019 02:54:17 PM: INFO: ******* Starting Login DDT Test **********
+03/25/2019 02:54:20 PM: INFO: ************* Test_001_Login **********
+03/25/2019 02:54:20 PM: INFO: ******* Starting Home Page Title Test **********
+03/25/2019 02:54:22 PM: INFO: HomePageTitle Test Passed
+03/25/2019 02:54:22 PM: INFO: ******* Ending Home Page Title Test **********
+03/25/2019 02:54:25 PM: INFO: ******* Starting Login Test **********
+03/25/2019 02:54:30 PM: INFO: Login Test Passed
+03/25/2019 02:54:30 PM: INFO: ******* Ending Login Test **********
+03/25/2019 02:54:32 PM: INFO: ******* Starting Test_002_DDT_Login Test **********
+03/25/2019 02:54:32 PM: INFO: ******* Starting Login DDT Test **********
+03/25/2019 02:54:35 PM: INFO: ******* Reading data from excel **********
+03/25/2019 02:54:45 PM: INFO: Login Test Passed
+03/25/2019 02:54:54 PM: INFO: Login Test Passed
+03/25/2019 02:55:00 PM: INFO: Login Test Passed
+03/25/2019 02:55:06 PM: INFO: Login Test Passed
+03/25/2019 02:55:06 PM: INFO: ******* Ending Login DDT Test **********
+03/25/2019 02:56:35 PM: INFO: ******* Starting Test_002_DDT_Login Test **********
+03/25/2019 02:56:35 PM: INFO: ******* Starting Login DDT Test **********
+03/25/2019 02:56:38 PM: INFO: ************* Test_001_Login **********
+03/25/2019 02:56:38 PM: INFO: ******* Starting Home Page Title Test **********
+03/25/2019 02:56:39 PM: INFO: HomePageTitle Test Passed
+03/25/2019 02:56:40 PM: INFO: ******* Ending Home Page Title Test **********
+03/25/2019 02:56:42 PM: INFO: ******* Starting Login Test **********
+03/25/2019 02:56:48 PM: INFO: Login Test Passed
+03/25/2019 02:56:50 PM: INFO: ******* Ending Login Test **********
+03/25/2019 03:01:07 PM: INFO: ******* Starting Test_002_DDT_Login Test **********
+03/25/2019 03:01:07 PM: INFO: ******* Starting Login DDT Test **********
+03/25/2019 03:01:10 PM: INFO: ************* Test_001_Login **********
+03/25/2019 03:01:10 PM: INFO: ******* Starting Home Page Title Test **********
+03/25/2019 03:01:12 PM: INFO: HomePageTitle Test Passed
+03/25/2019 03:01:12 PM: INFO: ******* Ending Home Page Title Test **********
+03/25/2019 03:01:14 PM: INFO: ******* Starting Login Test **********
+03/25/2019 03:01:21 PM: INFO: Login Test Passed
+03/25/2019 03:01:23 PM: INFO: ******* Ending Login Test **********
+03/25/2019 03:01:25 PM: INFO: ************* Test_001_Login **********
+03/25/2019 03:01:25 PM: INFO: ******* Starting Home Page Title Test **********
+03/25/2019 03:01:29 PM: INFO: ******* Starting Login Test **********

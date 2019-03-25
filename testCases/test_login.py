@@ -5,7 +5,7 @@ from utilities.readProperties import ReadConfig
 from utilities.customLogger import LogGen
 
 @pytest.mark.usefixtures("oneTimeSetup")
-class Test_001_Login(unittest.TestCase):
+class Test_001_Login():
     baseURL = ReadConfig.getApplicationURL()
     username = ReadConfig.getUseremail()
     password = ReadConfig.getPassword()
@@ -15,6 +15,7 @@ class Test_001_Login(unittest.TestCase):
     def classSetup(self,oneTimeSetup):
         self.driver=self.value
 
+    @pytest.mark.sanity
     def test_homePageTitle(self):
         self.logger.info("************* Test_001_Login **********")
         self.logger.info("******* Starting Home Page Title Test **********")
@@ -31,6 +32,8 @@ class Test_001_Login(unittest.TestCase):
         self.driver.close()
         self.logger.info("******* Ending Home Page Title Test **********")
 
+
+    @pytest.mark.regression
     def test_login(self):
         self.logger.info("******* Starting Login Test **********")
         self.driver.get(self.baseURL)

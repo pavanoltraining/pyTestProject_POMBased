@@ -8,7 +8,7 @@ from utilities import XLUtils
 import time
 
 @pytest.mark.usefixtures("oneTimeSetup")
-class Test_002_DDT_Login(unittest.TestCase):
+class Test_002_DDT_Login():
     baseURL = ReadConfig.getApplicationURL()
     path = "./testData/LoginData.xlsx"
     logger = LogGen.loggen()  # Logger
@@ -18,6 +18,7 @@ class Test_002_DDT_Login(unittest.TestCase):
         self.driver=self.value
         self.ts = TestStatus()
 
+    @pytest.mark.regression
     def test_login_ddt(self):
         self.rows = XLUtils.getRowCount(self.path, 'Sheet1')
         self.logger.info("******* Starting Test_002_DDT_Login Test **********")
