@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4931f9fd-b652-4961-bc02-403a89d08016" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/automation.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/report.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/run.bat" beforeDir="false" afterPath="$PROJECT_DIR$/run.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testCases/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCases/test_login.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,26 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/root.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/run.bat">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -81,13 +62,14 @@
         <option value="$PROJECT_DIR$/testCases/test_Suites.py" />
         <option value="$PROJECT_DIR$/testCases/test_login_ddt.py" />
         <option value="$PROJECT_DIR$/testCases/test_login.py" />
+        <option value="$PROJECT_DIR$/run2.bat" />
         <option value="$PROJECT_DIR$/run.bat" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="892" />
-    <option name="y" value="19" />
+    <option name="x" value="1358" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -107,26 +89,6 @@
               <item name="pyTestProject_POMBased" type="b2602c69:ProjectViewProjectNode" />
               <item name="pyTestProject_POMBased" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="pyTestProject_POMBased" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pyTestProject_POMBased" type="462c0819:PsiDirectoryNode" />
-              <item name="logs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pyTestProject_POMBased" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pyTestProject_POMBased" type="462c0819:PsiDirectoryNode" />
-              <item name="reports" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pyTestProject_POMBased" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pyTestProject_POMBased" type="462c0819:PsiDirectoryNode" />
-              <item name="testCases" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pyTestProject_POMBased" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pyTestProject_POMBased" type="462c0819:PsiDirectoryNode" />
-              <item name="testSuite" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -139,9 +101,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\pyTestProject_POMBased" />
       <recent name="C:\Users\admin\pyTestProject_POMBased\testSuite" />
       <recent name="C:\Users\admin\pyTestProject_POMBased\testCases" />
-      <recent name="C:\Users\admin\pyTestProject_POMBased" />
       <recent name="C:\Users\admin\pyTestProject_POMBased\utilities" />
       <recent name="C:\Users\admin\pyTestProject_POMBased\testData" />
     </key>
@@ -320,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1553506477625</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="updated..">
+      <created>1553506928718</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1553506928718</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -357,20 +326,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24907456" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24907456" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4997356" weight="0.32998884" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.5574136" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5574136" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39910814" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3489409" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3489409" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5002644" side_tool="true" weight="0.32998884" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32998884" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -393,7 +361,7 @@
     <entry file="file://$PROJECT_DIR$/testCases/test_LoginTest.py" />
     <entry file="file://$PROJECT_DIR$/testCases/test_helper.py" />
     <entry file="file://$PROJECT_DIR$/screenshots/test_login_scr.png" />
-    <entry file="file://$PROJECT_DIR$/reports/report.html">
+    <entry file="file://$PROJECT_DIR$/reports/Report.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://C:/Program Files (x86)/Python3.6.4/Lib/logging/__init__.py">
@@ -437,13 +405,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/utilities/readProperties.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" selection-start-line="24" selection-end-line="24" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/utilities/automation.log">
       <provider selected="true" editor-type-id="LogFileEditorProvider" />
     </entry>
@@ -454,13 +415,6 @@
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utilities/customLogger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -494,20 +448,24 @@
     <entry file="file://$PROJECT_DIR$/testSuite/test_suites.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/testCases/test_login_ddt.py">
+    <entry file="file://$PROJECT_DIR$/utilities/readProperties.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="621">
+          <caret line="24" selection-start-line="24" selection-end-line="24" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testCases/test_login.py">
+    <entry file="file://$PROJECT_DIR$/utilities/customLogger.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+        <state relative-caret-position="300">
+          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCases/test_login_ddt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1341">
+          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
@@ -521,10 +479,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/run.bat">
+    <entry file="file://$PROJECT_DIR$/testCases/test_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="758">
+          <caret line="35" column="27" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run2.bat">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+          <caret line="1" column="62" selection-start-line="1" selection-start-column="62" selection-end-line="1" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
