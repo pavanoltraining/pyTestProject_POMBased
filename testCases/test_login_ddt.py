@@ -11,16 +11,17 @@ import time
 class Test_002_DDT_Login(unittest.TestCase):
     baseURL = ReadConfig.getApplicationURL()
     path = "./testData/LoginData.xlsx"
+    logger = LogGen.loggen()  # Logger
 
     @pytest.fixture(autouse=True)
     def classSetup(self,oneTimeSetup):
         self.driver=self.value
-        self.logger=LogGen.logger  # Logger
         self.ts = TestStatus()
 
     def test_login_ddt(self):
         self.rows = XLUtils.getRowCount(self.path, 'Sheet1')
-        self.logger.info("******* Starting Login Test **********")
+        self.logger.info("******* Starting Test_002_DDT_Login Test **********")
+        self.logger.info("******* Starting Login DDT Test **********")
         self.driver.get(self.baseURL)
         self.driver.maximize_window()
         self.lp = LoginPage(self.driver)
@@ -55,5 +56,5 @@ class Test_002_DDT_Login(unittest.TestCase):
                     self.lp.clickLogout()
 
         self.ts.markFinal("test_login_ddt", "Pass", "Login was successful")
-        self.logger.info("******* Ending Login Test **********")
+        self.logger.info("******* Ending Login DDT Test **********")
         self.driver.close()

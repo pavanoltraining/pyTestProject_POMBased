@@ -9,12 +9,11 @@ class Test_001_Login(unittest.TestCase):
     baseURL = ReadConfig.getApplicationURL()
     username = ReadConfig.getUseremail()
     password = ReadConfig.getPassword()
-
+    logger = LogGen.loggen()  # Logger
 
     @pytest.fixture(autouse=True)
     def classSetup(self,oneTimeSetup):
         self.driver=self.value
-        self.logger = LogGen.logger  # Logger
 
     def test_homePageTitle(self):
         self.logger.info("************* Test_001_Login **********")

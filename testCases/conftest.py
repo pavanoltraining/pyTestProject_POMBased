@@ -1,5 +1,6 @@
 import pytest
 import pytest_html
+import logging
 
 from selenium import webdriver
 
